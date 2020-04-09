@@ -1,0 +1,2 @@
+def func(a)：
+  print('s',a)
